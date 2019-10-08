@@ -1,0 +1,7 @@
+#!/bin/zsh
+
+echo diff 1.txt
+diff 1.txt ex/1.txt
+echo diff 2.txt
+diff 2.txt ex/2.txt
+echo done
